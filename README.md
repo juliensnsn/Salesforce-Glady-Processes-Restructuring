@@ -2,7 +2,7 @@
   <h2>👨🏼‍💻 Salesforce Glady Process Restructuring</h2>
 
   <p>
-    <strong>📈 Workflow Restructuring</strong><br>
+    <strong><h3>📈 Workflow Restructuring</strong><h3><br>
     – All Salesforce workflows were restructured for greater efficiency and clarity.<br>
     – Flows were grouped by object and by trigger (Create, Update, Before/After Save).<br>
     – Best practices were implemented to minimize unnecessary processes and reduce costs.<br>
@@ -12,14 +12,14 @@
   </p>
 
   <p>
-    <strong>👥 User Permissions Restructuring</strong><br>
+    <strong><h3>👥 User Permissions Restructuring</strong><h3><br>
     – User rights management was shifted from profile-based to permission set-based access.<br>
     – Profiles were reserved for app access, distinguishing between standard users and beta users.<br>
     – Permission sets and permission set groups were optimized for precise and flexible control.<br>
   </p>
 
   <p>
-    <strong>🔐 Data Privacy Enforcement</strong><br>
+    <strong><h3>🔐 Data Privacy Enforcement<h3></strong><br>
     – Data access was moved to a private model.<br>
     – Record-level access was managed through custom hierarchies and sales teams, ensuring both security and operational flexibility.<br>
   </p>
