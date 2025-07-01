@@ -1,8 +1,8 @@
 <section>
   <h2>👨🏼‍💻 Salesforce Glady Process Restructuring</h2>
 
+<strong><h3>📈 Workflow Restructuring</strong><h3><br>
   <p>
-    <strong><h3>📈 Workflow Restructuring</strong><h3><br>
     – All Salesforce workflows were restructured for greater efficiency and clarity.<br>
     – Flows were grouped by object and by trigger (Create, Update, Before/After Save).<br>
     – Best practices were implemented to minimize unnecessary processes and reduce costs.<br>
